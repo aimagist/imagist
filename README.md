@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @accesse-d 26yr-o from Argentina
-- 👀 I’m interested in ... JavaScript, front-end development
-- 🌱 I’m currently learning ... JavaScript in depth
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @aimagist 27yr-o from Argentina
+- 👀 I’m interested in ... JavaScript, React, front-end development
+- 🌱 I’m currently learning ... React in depth
+- 💞️ I’m looking to collaborate on ... any sort of project
 - 📫 How to reach me ... just email me pocodance@gmail.com
 
 <!---
